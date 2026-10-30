@@ -1,0 +1,6 @@
+{
+  "name": "Temuin — GTM Workspace",
+  "description": "Prototype sistem jasa GTM Engineering untuk automasi pencarian prospek B2B, AI lead scoring, email outreach, hingga booking qualified sales meetings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
